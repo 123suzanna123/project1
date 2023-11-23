@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16067" started-at="2023-11-17T16:50:37 IST" finished-at="2023-11-17T16:50:54 IST">
+    <groups>
+    </groups>
+    <test name="TestIng" duration-ms="8110" started-at="2023-11-17T16:50:37 IST" finished-at="2023-11-17T16:50:46 IST">
+      <class name="executionScript.TC_1">
+        <test-method status="PASS" signature="LaunchWebExcel()[pri:0, instance:executionScript.TC_1@17d677df]" name="LaunchWebExcel" duration-ms="8076" started-at="2023-11-17T16:50:37 IST" finished-at="2023-11-17T16:50:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchWebExcel -->
+      </class> <!-- executionScript.TC_1 -->
+    </test> <!-- TestIng -->
+    <test name="TEST12" duration-ms="7928" started-at="2023-11-17T16:50:46 IST" finished-at="2023-11-17T16:50:54 IST">
+      <class name="executionScript.TC_1">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:executionScript.TC_1@17d677df]" name="initialize" is-config="true" duration-ms="5786" started-at="2023-11-17T16:50:32 IST" finished-at="2023-11-17T16:50:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:executionScript.TC_1@17d677df]" name="tearDown" is-config="true" duration-ms="0" started-at="2023-11-17T16:50:54 IST" finished-at="2023-11-17T16:50:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- executionScript.TC_1 -->
+      <class name="executionScript.TC_2">
+        <test-method status="PASS" signature="Flightfinder()[pri:0, instance:executionScript.TC_2@29b5cd00]" name="Flightfinder" duration-ms="7925" started-at="2023-11-17T16:50:46 IST" finished-at="2023-11-17T16:50:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Flightfinder -->
+      </class> <!-- executionScript.TC_2 -->
+    </test> <!-- TEST12 -->
+  </suite> <!-- Suite -->
+</testng-results>
